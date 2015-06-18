@@ -88,3 +88,30 @@ img {
 /**
  * YOUR CODE HERE
  */
+
+html , body{
+    height:100%;
+}
+
+body {
+    .canvas{
+        width:100%;
+        height:100%;
+        border:10px solid red;
+
+        .hero{
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background-color: #44ffad;
+            border: 10px solid red; 
+        }
+    }
+}
+
+
+
+
+
+
+
